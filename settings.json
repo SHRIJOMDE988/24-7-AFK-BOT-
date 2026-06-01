@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "thorfinislive.aternos.me",
+    "ip": "tntpublicnet.aternos.me",
     "port": 48373,
     "version": "1.20.1",
     "try-creative": false
